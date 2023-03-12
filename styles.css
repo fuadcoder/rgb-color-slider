@@ -51,3 +51,9 @@ span {
     letter-spacing: .5px;
     border-radius: 5px;
 }
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 32px;
+    }
+}
